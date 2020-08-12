@@ -18,3 +18,4 @@ dimnames(e)<- list(c('A', 'B'), c('C', 'D'))
 e
 
 f<- "fuck"
+g<- 'fuck again 3'
