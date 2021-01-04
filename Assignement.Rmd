@@ -5,7 +5,7 @@ date: "29/12/2020"
 output: html_document
 ---
 
-**Reading the data into R**
+**Reading the data into R.**
 ```{r echo=TRUE, cache=TRUE}
 data<- read.csv('activity.csv')
 head(data)
